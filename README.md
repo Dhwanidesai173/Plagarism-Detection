@@ -1,4 +1,3 @@
-
 Plagiarism-detector: The algorithm takes two files as input, uses dynamic programming to compare them and checks if they are plagiarized. It returns 1 if they are found plagiarized otherwise 0
 
 How to run the project?
